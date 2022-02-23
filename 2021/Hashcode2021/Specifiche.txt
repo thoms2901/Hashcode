@@ -1,0 +1,27 @@
+
+listaAuto
+listaStrade
+tempoTotale
+numStrade
+numIncroci
+numAuto
+bonus
+
+
+Auto:
+numStrade int
+listaStrade
+
+Strada:
+nome
+inizio Incrocio
+fine
+tempoPercorrenza int
+
+Incrocio:
+id
+listaIn
+listaOut
+
+diz schedule
+incrocio -> [(strada,tempo)...]

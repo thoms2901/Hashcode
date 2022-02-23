@@ -1,0 +1,12 @@
+Lista auto: 
+
+Auto con 4, e strade ['rue-de-londres', 'rue-d-amsterdam', 'rue-de-moscou', 'rue-de-rome']
+Auto con 3, e strade ['rue-d-athenes', 'rue-de-moscou', 'rue-de-londres']
+
+Lista strade
+
+ Strada rue-de-londres, con tempo di percorrenza 1, incorcio inizio con id 2, incrocio fine con id 0
+ Strada rue-d-amsterdam, con tempo di percorrenza 1, incorcio inizio con id 0, incrocio fine con id 1
+ Strada rue-d-athenes, con tempo di percorrenza 1, incorcio inizio con id 3, incrocio fine con id 1
+ Strada rue-de-rome, con tempo di percorrenza 2, incorcio inizio con id 2, incrocio fine con id 3
+ Strada rue-de-moscou, con tempo di percorrenza 3, incorcio inizio con id 1, incrocio fine con id 2
